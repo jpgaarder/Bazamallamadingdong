@@ -9,4 +9,4 @@ This program consists of three seperate, but related apps.  The first, BamazonCu
 
 ###Customer.js Screenshot
 
-![first screenshot](assets/Bamazon1.png)
+![first screenshot](assets/Bamazon1.PNG)
